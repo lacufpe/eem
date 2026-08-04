@@ -1,8 +1,13 @@
-# Welcome to MkDocs
+# Equipamentos Eletromecânicos
+Prof. João Paulo Cerquinho Cajueiro
+Engenharia Mecânica - UFPE
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+# Aulas
+
+1. [Circuitos Magnéticos](./Circuitos_Magneticos.md)
+2. [Transformadores Ideais e Reais](./Transformadores_ideais_e_reais.md)
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
