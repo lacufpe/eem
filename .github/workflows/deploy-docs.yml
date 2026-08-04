@@ -1,0 +1,39 @@
+name: deploy-docs
+on:
+  push:
+    branches:
+      - main  # ou 'master', dependendo da sua branch principal
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Baixa o código do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Configura a versão do Python
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      # 3. Gerencia o cache para instalações mais rápidas
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          key: ${{ runner.os }}-python-${{ hashFiles('**/requirements.txt') }}
+          path: .cache
+
+      # 4. Instala o MkDocs Material e plugins (se houver)
+      - name: Install dependencies
+        run: |
+          pip install mkdocs-material
+
+      # 5. Executa a conversão e faz o deploy no GitHub Pages
+      - name: Build and Deploy
+        run: |
+          mkdocs gh-deploy --force
