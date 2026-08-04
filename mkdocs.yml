@@ -1,6 +1,8 @@
 site_name: Equipamentos Eletromecânicos
 site_description: Material da disciplina de Equipamentos Eletromecânicos da UFPE, de autoria de Prof. João Paulo Cerquinho Cajueiro, DEMEC/UFPE.
 
+site-url: https://lacufpe.github.io/eem/
+
 theme:
   name: material
   language: pt  # Idioma em Português
