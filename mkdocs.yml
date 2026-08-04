@@ -1,0 +1,37 @@
+site_name: Equipamentos Eletromecânicos
+site_description: Material da disciplina de Equipamentos Eletromecânicos da UFPE, de autoria de Prof. João Paulo Cerquinho Cajueiro, DEMEC/UFPE.
+
+theme:
+  name: material
+  language: pt  # Idioma em Português
+  palette:
+    # Modo Claro / Escuro (Alternador)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Alternar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Alternar para modo claro
+  features:
+    - navigation.tabs          # Navegação em abas superiores
+    - navigation.sections      # Seções organizadas na barra lateral
+    - navigation.top           # Botão de "Voltar ao topo"
+    - search.suggest           # Sugestões automáticas na busca
+    - search.highlight         # Destaque nos termos pesquisados
+    - content.code.copy        # Botão de copiar código
+
+# Extensões Markdown úteis
+markdown_extensions:
+  - admonition                 # Blocos de aviso/destaque (callouts)
+  - pymdownx.details           # Blocos colapsáveis
+  - pymdownx.superfences       # Blocos de código avançados
+  - pymdownx.highlight:
+      anchor_linenums: true
