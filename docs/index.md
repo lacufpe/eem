@@ -1,4 +1,4 @@
-# Equipamentos Eletromecânicos
+# Equipamentos Eletromecânicos 2026.2
 Prof. João Paulo Cerquinho Cajueiro
 
 Engenharia Mecânica - UFPE
@@ -11,11 +11,11 @@ Engenharia Mecânica - UFPE
 - Práticas com experimentos em laboratório.
 
 ## Forma de Avaliação
-- Listas de Exercício - $LE$
-- Relatórios dos Experimentos - $RE$
-- 2 provas - $P1$ e $P2$
+- Listas de Exercício - \(LE\)
+- Relatórios dos Experimentos - \(RE\)
+- 2 provas - \(P1\) e \(P2\)
 
-$$\text{Nota final} = (LE + RE + P1 + P2)/4$$
+\[\text{Nota final} = (LE + RE + P1 + P2)/4\]
 
 # Aulas
 

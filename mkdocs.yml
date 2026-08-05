@@ -37,3 +37,9 @@ markdown_extensions:
   - pymdownx.superfences       # Blocos de código avançados
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.arithmatex:
+      generic: true
+      
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
