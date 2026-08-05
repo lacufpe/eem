@@ -1,6 +1,21 @@
 # Equipamentos Eletromecânicos
 Prof. João Paulo Cerquinho Cajueiro
+
 Engenharia Mecânica - UFPE
+
+# Metodologia
+- Aulas presenciais
+- Aulas expositivas disponibilizadas em vídeo.
+- Links de textos e materiais de simulação online para aprofundamento do assunto.
+- Listas de exercício online por meio de google forms para fixação dos assuntos.
+- Práticas com experimentos em laboratório.
+
+## Forma de Avaliação
+- Listas de Exercício - $LE$
+- Relatórios dos Experimentos - $RE$
+- 2 provas - $P1$ e $P2$
+
+$$\text{Nota final} = (LE + RE + P1 + P2)/4$$
 
 # Aulas
 
@@ -42,3 +57,11 @@ Engenharia Mecânica - UFPE
 27. [Prática 6 - Inversor de Frequência](./Pratica_6_-_inversor_de_frequencia.md)
 28. Revisão
 29. Prova 2
+
+# Bibliografia
+* Fundamentos de Maquinas Eletricas - 5ed Autor Stephen J. Chapman Editora AMGH Editora, 2013
+* Maquinas Eletricas - 6.ed. Com Introducao a Eletronica de Potencia Autores Arthur Eugene Fitzgerald, CHARLES KINGSLEY JR., Stephen D. Umans Editora Bookman Companhia Ed, 2006
+* Fundamentos de Maquinas Eletricas - 1ed Autor Vincent Del Toro Editora Prentice-Hall, 1994
+* Electric Motors and Drives : Fundamentals, Types and Applications. Autor AUSTIN HUGHES; BILL DRURY. Amsterdam: Newnes, 2013. v. 4th edISBN 9780080983325. Disponível em: http://search.ebscohost.com/login.aspx?direct=true&db=e000tww&AN=516215&lang=pt-br&site=ehost-live. Acesso em: 21 jul. 2020.
+* Electric Machinery. Oxford: Alpha Science Internation Limited, 2018. ISBN 9781783323791. Disponível em: http://search.ebscohost.com/login.aspx?direct=true&db=e000tww&AN=2005299&lang=pt-br&site=ehost-live. Acesso em: 21 jul. 2020.
+* Electric Drives and Electromechanical Systems : Applications and Control. Autor ROWDER, R. M. Oxford: Newnes, 2006. ISBN 9780750667401. Disponível em: http://search.ebscohost.com/login.aspx?direct=true&db=e000tww&AN=195109&lang=pt-br&site=ehost-live. Acesso em: 21 jul. 2020.
