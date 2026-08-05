@@ -5,6 +5,7 @@ site-url: https://lacufpe.github.io/eem/
 
 theme:
   name: material
+  logo: assets/logoufpe.png
   language: pt  # Idioma em Português
   palette:
     # Modo Claro / Escuro (Alternador)
@@ -23,8 +24,9 @@ theme:
         icon: material/brightness-4
         name: Alternar para modo claro
   features:
-    - navigation.tabs          # Navegação em abas superiores
+#    - navigation.tabs          # Navegação em abas superiores
     - navigation.sections      # Seções organizadas na barra lateral
+    - navigation.expand          # Expansão automática da barra lateral
     - navigation.top           # Botão de "Voltar ao topo"
     - search.suggest           # Sugestões automáticas na busca
     - search.highlight         # Destaque nos termos pesquisados
@@ -43,3 +45,6 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+repo_name: lacufpe/eem
+repo_url: https://github.com/lacufpe/eem
