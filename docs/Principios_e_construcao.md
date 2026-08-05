@@ -12,9 +12,10 @@ cípio de funcionamento
 
 
 ### Anexos & Materiais
-- [Vídeo: Aspectos construtivos de motor CC, parte 2](https://www.youtube.com/watch?v=8X2lwyK5Wlk)
-- [Vídeo: Espira sob campo magnético](https://www.youtube.com/watch?v=7OA4p0wZpEo)
-- [Vídeo: Motor CC 1 - princípio de funcionamento](https://www.youtube.com/watch?v=uBPAM2rDkak)
-- [Vídeo: Princípio de funcionamento do motor CC](https://www.youtube.com/watch?v=eDKalfJTl8k)
-- [Simuladores de motor CC](https://joaopaulo-cerquinhocajueiro.github.io/simMaquinas/motorCC.html)
-- [Vídeo: Motor CC 3 - Enrolamento de armadura](https://www.youtube.com/watch?v=TpI_1zyP-Bc)
+- ▶️ [Vídeo: Aspectos construtivos de motor CC, parte 2](https://www.youtube.com/watch?v=8X2lwyK5Wlk)
+- ▶️ [Vídeo: Espira sob campo magnético](https://www.youtube.com/watch?v=7OA4p0wZpEo)
+- ▶️ [Vídeo: Motor CC 1 - princípio de funcionamento](https://www.youtube.com/watch?v=uBPAM2rDkak)
+- ▶️ [Vídeo: Princípio de funcionamento do motor CC](https://www.youtube.com/watch?v=eDKalfJTl8k)
+- 🔗 [Simuladores de motor CC](https://joaopaulo-cerquinhocajueiro.github.io/simMaquinas/motorCC.html)
+- ▶️ [Vídeo: Motor CC 3 - Enrolamento de armadura](https://www.youtube.com/watch?v=TpI_1zyP-Bc)
+- 📝 [Formulário: Motor CC - Princípio](https://docs.google.com/forms/d/1VDuiYBPo-f6PX-EH526i3sI8Gnxx6axrNFTImiQUejA/edit)

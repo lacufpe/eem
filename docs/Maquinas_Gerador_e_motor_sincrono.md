@@ -3,6 +3,7 @@
 Sem entrega que está atrasado
 
 ### Anexos & Materiais
-- [Vídeo: Gerador Síncrono](https://www.youtube.com/watch?v=S-AkH4LDgAY)
-- [Campo em Gerador Trifásico](https://joaopaulo-cerquinhocajueiro.github.io/simMaquinas/gerador.html)
-- [Vídeo: Motores de relutância e histerese](https://www.youtube.com/watch?v=LD0dAZbnVRg)
+- ▶️ [Vídeo: Gerador Síncrono](https://www.youtube.com/watch?v=S-AkH4LDgAY)
+- 🔗 [Campo em Gerador Trifásico](https://joaopaulo-cerquinhocajueiro.github.io/simMaquinas/gerador.html)
+- ▶️ [Vídeo: Motores de relutância e histerese](https://www.youtube.com/watch?v=LD0dAZbnVRg)
+- 📝 [Formulário: Gerador e motor Síncrono](https://docs.google.com/forms/d/106CXAEVuKqoIojRgGBZBt42ltDs241CIKY626fyfxrQ/edit)

@@ -1,14 +1,11 @@
 # Transformadores ideais e reais
 
-Aula 10/mar
-exercício 12/mar, 15h
+Aula 18/ago
 
-Sequência:
-Transformadores ideais
-Transformadores reais
-Exemplos
+Exercício 20/ago, 15h
+- 📝 [Formulário: Transformadores](https://docs.google.com/forms/d/11Qlk56D68thvKYcBEH-b7KHklFgCKWRIdNOI7K6mgLk/edit)
 
 ### Anexos & Materiais
-- [Vídeo: Transformadores reais](https://www.youtube.com/watch?v=q_MBuLGndt8)
-- [Vídeo: Transformadores ideais](https://www.youtube.com/watch?v=jL75i71mR88)
-- [Vídeo: Exemplos de exercícios com transformadores](https://www.youtube.com/watch?v=9rdGr7_JFw0)
+- ▶️ [Vídeo: Transformadores ideais](https://www.youtube.com/watch?v=jL75i71mR88)
+- ▶️ [Vídeo: Transformadores reais](https://www.youtube.com/watch?v=q_MBuLGndt8)
+- ▶️ [Vídeo: Exemplos de exercícios com transformadores](https://www.youtube.com/watch?v=9rdGr7_JFw0)
