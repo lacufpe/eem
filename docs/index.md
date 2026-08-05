@@ -58,6 +58,11 @@ $$\text{Nota final} = (LE + RE + P1 + P2)/4$$
 28. Revisão
 29. Prova 2
 
+# Material Auxiliar
+* [Modelo de relatórios](./Modelo_de_relatorio_de_praticas.md)
+* [Aulas de uso do Jupyter](./Jupyter.md)
+* [Provas antigas](./Provas_antigas.md)
+
 # Bibliografia
 * Fundamentos de Maquinas Eletricas - 5ed Autor Stephen J. Chapman Editora AMGH Editora, 2013
 * Maquinas Eletricas - 6.ed. Com Introducao a Eletronica de Potencia Autores Arthur Eugene Fitzgerald, CHARLES KINGSLEY JR., Stephen D. Umans Editora Bookman Companhia Ed, 2006
