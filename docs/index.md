@@ -30,7 +30,7 @@ Engenharia Mecânica - UFPE
 ## Parte 2 - Motor de Corrente Contínua
 7. [Máquina Linear](./7-Maquina_linear.md)
 8. [Motor CC - Princípios e Construção](./8-Principios_e_construcao.md)
-9. [Motor CC - Torque e Velocidade](./9-Torque_e_velocidade.md)
+9. [Motor CC - Torque e Velocidade](./9-Torque_e_velocidade.md) (Atualizado até aqui)
 10. [Motor CC - Acionamneto e Controle](./10-Acionamento_e_controle_de_maquinas_CC.md)
 11. [Prática 2 - Motor CC](./11-Pratica_Motor_CC.md)
 12. [Motor CC Brushless e Motor de Passo](./12-Brushless_e_Passo.md)

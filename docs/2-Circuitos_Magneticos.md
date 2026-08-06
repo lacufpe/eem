@@ -4,8 +4,7 @@ Aula 13/ago
 - 📁 [Circuitos Magnéticos.pdf](https://drive.google.com/file/d/1SFNrEIKHcYdIiA9EojSu2PLIWN8MNRcq/view?usp=drive_web)
 
 Exercício dia 18/ago (até 15h)
-- 📝 [Formulário: Circuitos Magnéticos](https://docs.google.com/forms/d/1ZlYopG4iJnyswniBgkl-qd-tzhbLlWP8IwV-4KhZ__4)
-- 📝 [Formulário: Circuitos Magnéticos](https://docs.google.com/forms/d/e/1FAIpQLSdmXEyIP9O77cKpaWLtCMt3afKr4NvS8FG63ribmFpbCt-wAw/viewform?usp=preview)
+- 📝 [Formulário: Circuitos Magnéticos](https://docs.google.com/forms/d/e/1FAIpQLSdmXEyIP9O77cKpaWLtCMt3afKr4NvS8FG63ribmFpbCt-wAw/viewform)
 
 
 ### Anexos & Materiais

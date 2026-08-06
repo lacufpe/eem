@@ -1,11 +1,15 @@
 # Prática 1 - Transformadores
 
-Atividade no Lab. de Máquinas Elétricas, no galpão de Elétrica.
-Dia 12/março
-Relatório para 24/março
+- 📁 [Pratica_EEM_Transformador.pdf](https://drive.google.com/file/d/1QfwFpzjE61vb71J3CjTWpZSkGO7Dihy8/view?usp=drive_web)
 
-Modelo do relatório no classroom
+Atividade no Lab. de Máquinas Elétricas, no galpão de Elétrica.
+
+Dia - a ser marcado
+
+Relatório uma semana depois
+
+Modelo do relatório
 
 ### Anexos & Materiais
-- 🔗 [Parâmetros do Transformador](https://joaopaulo-cerquinhocajueiro.github.io/simMaquinas/transformador/index.html)
-- 📁 [Pratica_EEM_Transformador (2).pdf](https://drive.google.com/file/d/1QfwFpzjE61vb71J3CjTWpZSkGO7Dihy8/view?usp=drive_web)
+- 🔗 [Modelo do relatório](./Modelo_de_relatorio_de_praticas.md)
+- 🔗 [Simulador de Transformador](https://joaopaulo-cerquinhocajueiro.github.io/simMaquinas/transformador/index.html)
