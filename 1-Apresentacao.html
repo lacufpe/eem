@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipamentos Eletromecânicos — Aula de Apresentação</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/theme/white.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Source+Sans+Pro:wght@300;400;600&display=swap');
+
+        :root {
+            --ufpe-blue: #1a365d;
+            --ufpe-light: #f7fafc;
+            --ufpe-gray: #4a5568;
+            --ufpe-muted: #718096;
+        }
+
+        .reveal {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 36px;
+            color: #1a1a1a;
+        }
+
+        .reveal h1, .reveal h2, .reveal h3 {
+            font-family: 'Merriweather', Georgia, serif;
+            color: var(--ufpe-blue);
+            text-transform: none;
+            letter-spacing: 0.3px;
+            font-weight: 700;
+        }
+
+        .reveal h1 { font-size: 1.8em; }
+        .reveal h2 { font-size: 1.4em; margin-bottom: 0.6em; }
+        .reveal h3 { font-size: 1.1em; }
+
+        .reveal p, .reveal li {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 0.85em;
+            line-height: 1.6;
+            color: #2d3748;
+        }
+
+        .reveal ul { margin-left: 0; }
+        .reveal li { margin-bottom: 0.4em; }
+
+        .reveal .slides section {
+            text-align: left;
+            padding: 40px;
+        }
+
+        .reveal .slides section.center-slide {
+            text-align: center;
+        }
+
+        /* Header bar */
+        .slide-header {
+            background: var(--ufpe-blue);
+            color: white;
+            padding: 18px 40px;
+            margin: -40px -40px 30px -40px;
+            font-family: 'Merriweather', serif;
+            font-size: 0.9em;
+            letter-spacing: 0.5px;
+        }
+
+        .slide-header h2 {
+            color: white;
+            margin: 0;
+            font-size: 1.1em;
+            font-weight: 400;
+        }
+
+        /* Quote box */
+        .quote-box {
+            border-left: 3px solid var(--ufpe-blue);
+            padding: 16px 24px;
+            background: var(--ufpe-light);
+            margin: 20px 0;
+            font-style: italic;
+            color: var(--ufpe-gray);
+        }
+
+        /* Info cards */
+        .info-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-top: 20px;
+        }
+
+        .info-card {
+            background: var(--ufpe-light);
+            padding: 18px;
+            border-radius: 4px;
+        }
+
+        .info-card h4 {
+            margin: 0 0 6px 0;
+            color: var(--ufpe-blue);
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+
+        .info-card p {
+            margin: 0;
+            font-size: 0.75em;
+            color: var(--ufpe-gray);
+        }
+
+        /* Image grid */
+        .img-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin: 20px 0;
+        }
+
+        .img-grid img {
+            display: block;
+            margin: 0 auto;
+            width: 60%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 4px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+
+        .img-caption {
+            text-align: center;
+            font-size: 0.65em;
+            color: var(--ufpe-muted);
+            font-style: italic;
+            margin-top: 4px;
+        }
+
+        /* Program list with images */
+        .program-columns {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            align-items: start;
+        }
+
+        .program-col {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .program-item {
+            display: flex;
+            gap: 14px;
+            align-items: flex-start;
+            padding: 12px;
+            background: var(--ufpe-light);
+            border-radius: 4px;
+        }
+
+        .program-item img {
+            width: 20%;
+            height: auto;
+            object-fit: cover;
+            border-radius: 3px;
+            flex-shrink: 0;
+        }
+
+        .program-item h4 {
+            margin: 0 0 4px 0;
+            color: var(--ufpe-blue);
+            font-size: 0.8em;
+        }
+
+        .program-item p {
+            margin: 0;
+            font-size: 0.7em;
+            color: var(--ufpe-gray);
+            line-height: 1.5;
+        }
+
+        /* Assessment circles */
+        .assess-grid {
+            display: flex;
+            justify-content: center;
+            gap: 24px;
+            margin: 30px 0;
+        }
+
+        .assess-item {
+            text-align: center;
+        }
+
+        .assess-circle {
+            width: 90px;
+            height: 90px;
+            border: 2px solid var(--ufpe-blue);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 10px;
+            font-family: 'Merriweather', serif;
+            font-size: 1.3em;
+            font-weight: 700;
+            color: var(--ufpe-blue);
+        }
+
+        .assess-item p {
+            margin: 0;
+            font-size: 0.75em;
+            font-weight: 600;
+            color: #2d3748;
+        }
+
+        /* Formula box */
+        .formula-box {
+            background: var(--ufpe-blue);
+            color: white;
+            display: inline-block;
+            padding: 16px 36px;
+            border-radius: 4px;
+            font-family: 'Merriweather', serif;
+            font-size: 1em;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+        /* Bibliography */
+        .bib-item {
+            padding: 12px 16px;
+            background: var(--ufpe-light);
+            border-left: 3px solid var(--ufpe-blue);
+            margin-bottom: 10px;
+            font-size: 0.75em;
+            line-height: 1.5;
+        }
+
+        /* Footer */
+        .slide-footer {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.6em;
+            color: var(--ufpe-muted);
+            border-top: 1px solid #e2e8f0;
+            padding-top: 10px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /* Title slide special */
+        .title-slide {
+            background: var(--ufpe-blue) !important;
+        }
+
+        .title-slide h1 {
+            color: white !important;
+            font-size: 2em !important;
+            font-weight: 400 !important;
+            letter-spacing: 1px;
+        }
+
+        .title-slide p {
+            color: rgba(255,255,255,0.85) !important;
+            font-size: 0.9em;
+        }
+
+        .closing-slide {
+            position: relative;
+        }
+
+        .closing-slide .slide-footer-signature {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            margin: 0;
+            font-size: 0.7em;
+            color: rgba(255,255,255,0.7);
+        }
+
+        .title-slide .subtitle {
+            font-style: italic;
+            margin-top: 8px;
+        }
+
+        .title-info {
+            margin-top: 60px;
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+        }
+
+        .title-info-box {
+            border-top: 2px solid rgba(255,255,255,0.4);
+            padding-top: 12px;
+            text-align: center;
+        }
+
+        .title-info-box strong {
+            color: white;
+            font-size: 0.8em;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .title-info-box span {
+            color: rgba(255,255,255,0.75);
+            font-size: 0.7em;
+            display: block;
+        }
+
+        .reveal .controls {
+            color: var(--ufpe-blue);
+        }
+
+        .reveal .progress {
+            background: #e2e8f0;
+            height: 3px;
+        }
+
+        .reveal .progress span {
+            background: var(--ufpe-blue);
+        }
+    </style>
+<base target="_blank">
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- SLIDE 1: ABERTURA -->
+            <section class="center-slide title-slide">
+                <h1>Equipamentos Eletromecânicos</h1>
+                <p class="subtitle">Apresentação da disciplina — 2026.2</p>
+                <p style="margin-top: 30px; font-size: 0.85em;">
+                    Disciplina de Engenharia Mecânica, voltada ao estudo dos princípios de operação, construção e aplicação dos principais equipamentos eletromecânicos utilizados na indústria.
+                </p>
+                <div class="title-info">
+                    <div class="title-info-box">
+                        <strong>João Paulo Cerquinho Cajueiro</strong>
+                        <span>DEMEC — UFPE</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SLIDE 2: RELEVÂNCIA -->
+            <section>
+                <div class="slide-header">
+                    <h2>Relevância da Disciplina</h2>
+                </div>
+
+                <div class="img-grid">
+                    <div>
+                        <img src="1 - apresentacao_files/transformador1.jpg" alt="Transformador">
+                        <p class="img-caption">Transformador industrial</p>
+                    </div>
+                    <div>
+                        <img src="1 - apresentacao_files/inducao1.jpg" alt="Motor de indução">
+                        <p class="img-caption">Motor de indução industrial</p>
+                    </div>
+                </div>
+
+                <div class="quote-box">
+                    <p style="margin: 0 0 10px 0;">
+                        <strong>Os Motores elétricos</strong> consomem ~45% da energia elétrica gerada mundialmente.
+                    </p>
+                    <p style="margin: 0;">
+                        <strong>Os transformadores</strong> são indispensáveis na transmissão e distribuição de energia elétrica.
+                    </p>
+                </div>
+
+                <p style="text-align: center; font-size: 0.75em; color: var(--ufpe-gray); font-style: italic; margin-top: 16px;">
+                    O domínio desses equipamentos é essencial no dimensionamento, seleção e manutenção de sistemas de acionamento.
+                </p>
+            </section>
+
+            <!-- SLIDE 3: PROGRAMA -->
+            <section>
+                <div class="slide-header">
+                    <h2>Programa da Disciplina</h2>
+                </div>
+
+                <div class="program-columns">
+                    <div class="program-col">
+                        <div class="program-item">
+                            <img src="1 - apresentacao_files/transformador2.webp" alt="Transformador">
+                            <div>
+                                <h4>Parte I — Circuitos Magnéticos e Transformadores</h4>
+                                <p>Circuitos magnéticos, transformadores ideais e reais, transformadores trifásicos e especiais, conversão de energia.</p>
+                            </div>
+                        </div>
+
+                        <div class="program-item">
+                            <img src="1 - apresentacao_files/rotor-from-an-electric-motor.webp" alt="Motor CC">
+                            <div>
+                                <h4>Parte II — Motores de Corrente Contínua</h4>
+                                <p>Máquina linear, princípios e construção, torque e velocidade, acionamento e controle, motores brushless e de passo.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="program-col">
+                        <div class="program-item">
+                            <img src="1 - apresentacao_files/sincrona.webp" alt="Máquina síncrona">
+                            <div>
+                                <h4>Parte III — Máquinas Síncronas</h4>
+                                <p>Campo girante, princípios e construção, potência e torque, partida e operação.</p>
+                            </div>
+                        </div>
+
+                        <div class="program-item">
+                            <img src="1 - apresentacao_files/inducao2.jpg" alt="Motor indução">
+                            <div>
+                                <h4>Parte IV — Motores de Indução</h4>
+                                <p>Princípios e construção, circuito equivalente, potência, torque e velocidade.</p>
+                            </div>
+                        </div>
+
+                        <div class="program-item">
+                            <img src="1 - apresentacao_files/ESC.webp" alt="Inversor">
+                            <div>
+                                <h4>Parte V — Controle e Aplicações</h4>
+                                <p>Partida e controle de máquinas CA, controle vetorial, inversores de frequência.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SLIDE 4: METODOLOGIA -->
+            <section>
+                <div class="slide-header">
+                    <h2>Metodologia</h2>
+                </div>
+
+                <div class="info-grid">
+                    <div class="info-card">
+                        <h4>Aulas Expositivas</h4>
+                        <p>Abordagem teórica dos fundamentos, com deduções analíticas e resolução de exemplos numéricos.</p>
+                    </div>
+                    <div class="info-card">
+                        <h4>Vídeos-aulas</h4>
+                        <p>Material gravado disponibilizado para revisão e aprofundamento individual dos conteúdos.</p>
+                    </div>
+                    <div class="info-card">
+                        <h4>Listas de Exercício</h4>
+                        <p>Atividades de fixação via formulários digitais, com correção automatizada.</p>
+                    </div>
+                    <div class="info-card">
+                        <h4>Práticas de Laboratório</h4>
+                        <p>Seis experimentos práticos com elaboração de relatórios técnicos.</p>
+                    </div>
+                </div>
+
+                <p style="text-align: center; font-size: 0.7em; color: var(--ufpe-muted); font-style: italic; margin-top: 24px;">
+                    Recursos complementares: simulações computacionais, notebooks Jupyter e material bibliográfico digital.
+                </p>
+            </section>
+
+            <!-- SLIDE 5: AVALIAÇÃO -->
+            <section class="center-slide">
+                <div class="slide-header" style="text-align: left;">
+                    <h2>Sistema de Avaliação</h2>
+                </div>
+
+                <div class="assess-grid">
+                    <div class="assess-item">
+                        <div class="assess-circle">LE</div>
+                        <p style="width: 200px">Média das Listas de Exercício</p>
+                    </div>
+                    <div class="assess-item">
+                        <div class="assess-circle">RE</div>
+                        <p style="width: 200px">Média dos Relatórios</p>
+                    </div>
+                    <div class="assess-item">
+                        <div class="assess-circle">P1</div>
+                        <p style="width: 200px">Prova 1</p>
+                    </div>
+                    <div class="assess-item">
+                        <div class="assess-circle">P2</div>
+                        <p style="width: 200px" >Prova 2</p>
+                    </div>
+                </div>
+
+                <div style="text-align: center; margin-top: 20px;">
+                    <div class="formula-box">
+                        Nota Final = (LE + RE + P1 + P2) / 4
+                    </div>
+                </div>
+
+            </section>
+
+            <!-- SLIDE 6: BIBLIOGRAFIA -->
+            <section>
+                <div class="slide-header">
+                    <h2>Bibliografia</h2>
+                </div>
+
+                <div class="bib-item">
+                    <strong>CHAPMAN, S. J.</strong> <em>Fundamentos de Máquinas Elétricas.</em> 5. ed. São Paulo: AMGH, 2013.
+                </div>
+                <div class="bib-item">
+                    <strong>FITZGERALD, A. E.; KINGSLEY, C.; UMANS, S. D.</strong> <em>Máquinas Elétricas.</em> 6. ed. Porto Alegre: Bookman, 2006.
+                </div>
+                <div class="bib-item">
+                    <strong>DEL TORO, V.</strong> <em>Fundamentos de Máquinas Elétricas.</em> 1. ed. Rio de Janeiro: Prentice-Hall, 1994.
+                </div>
+                <div class="bib-item">
+                    <strong>HUGHES, A.; DRURY, B.</strong> <em>Electric Motors and Drives: Fundamentals, Types and Applications.</em> 4. ed. Amsterdam: Newnes, 2013.
+                </div>
+
+                <p style="text-align: center; font-size: 0.7em; color: var(--ufpe-gray); margin-top: 20px;">
+                    Materiais complementares, modelos de relatórios e provas anteriores disponíveis em: <strong>lacufpe.github.io/eem</strong>
+                </p>
+                <img src="1 - apresentacao_files/qr-code.jpg" alt="QR Code para o site da disciplina" style="display: block; margin: 20px auto 0 auto; width: 160px; height: 160px;">
+            </section>
+
+            <!-- SLIDE 7: ENCERRAMENTO -->
+            <section class="center-slide title-slide closing-slide">
+                <h2 style="font-size: 1.5em !important;">Próxima Aula</h2>
+                <p style="font-size: 1em; margin-top: 10px;">Circuitos Magnéticos — Revisão de Eletromagnetismo</p>
+
+                <div style="margin-top: 40px; border-top: 1px solid rgba(255,255,255,0.3); padding-top: 30px;">
+                    <p style="font-size: 0.85em; color: rgba(255,255,255,0.9);">
+                        Leitura prévia recomendada: Capítulo 1
+                    </p>
+                    <p style="font-size: 0.8em; color: rgba(255,255,255,0.75); font-style: italic; margin-top: 8px;">
+                        CHAPMAN, S. J. <em>Fundamentos de Máquinas Elétricas.</em>
+                    </p>
+                </div>
+
+                <p style="margin-top: 30px; font-size: 0.7em; color: rgba(255,255,255,0.6);">
+                    Dúvidas e esclarecimentos: consultar o site da disciplina ou agendar atendimento.
+                </p>
+                <p style="margin-top: 10px; font-size: 0.7em; color: rgba(255,255,255,0.6);">
+                    <strong>joaopaulo@ufpe.br</strong>
+                </p>
+                <p class="slide-footer-signature"><strong>AMDG</strong></p>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            slideNumber: 'c/t',
+            transition: 'fade',
+            transitionSpeed: 'default',
+            backgroundTransition: 'fade',
+            center: false,
+            width: 1280,
+            height: 720,
+            margin: 0.04
+        });
+    </script>
+</body>
+</html>
