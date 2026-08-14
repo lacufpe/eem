@@ -1,14 +1,12 @@
 # Prática 1 - Transformadores
 
-- 📁 [Pratica_EEM_Transformador.pdf](https://drive.google.com/file/d/1QfwFpzjE61vb71J3CjTWpZSkGO7Dihy8/view?usp=drive_web)
+- 📁 [Pratica_EEM_Transformador.pdf](https://drive.google.com/file/d/1cAd2YZkiXNpbfshiBMlkdwBqKTrhf_9N/view?usp=sharing)
 
 Atividade no Lab. de Máquinas Elétricas, no galpão de Elétrica.
 
-Dia - a ser marcado
+Dia 20/ago/2026
 
-Relatório uma semana depois
-
-Modelo do relatório
+Relatório 27/ago/2026
 
 ### Anexos & Materiais
 - 🔗 [Modelo do relatório](./Modelo_de_relatorio_de_praticas.md)

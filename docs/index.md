@@ -19,13 +19,13 @@ Engenharia Mecânica - UFPE
 
 # Aulas
 
-1. [Apresentação da disciplina](./1-Apresentacao.html)
+1. [Apresentação da disciplina](./1-Apresentacao.html) 11/ago
 ## Parte 1 - Circuitos Magnéticos e transformadores
-2. [Circuitos Magnéticos](./2-Circuitos_Magneticos.md)
-3. [Transformadores Ideais e Reais](./3-Transformadores_ideais_e_reais.md)
-4. [Transformadores Trifásicos e Especiais](./4-Transformadores_trifasicos_e_especiais.md)
-5. [Prática 1 - Transformadores](./5-Pratica_1_-_Transformadores.md)
-6. [Conversão de Energia](./6-Conversao_de_Energia.md)
+2. [Circuitos Magnéticos](./2-Circuitos_Magneticos.md) 13/ago
+3. [Transformadores Ideais e Reais](./3-Transformadores_ideais_e_reais.md) 18/ago
+4. [Prática 1 - Transformadores](./5-Pratica_1_-_Transformadores.md) 20/ago
+5. [Transformadores Trifásicos e Especiais](./4-Transformadores_trifasicos_e_especiais.md) 25/ago
+6. [Conversão de Energia](./6-Conversao_de_Energia.md) 27/ago
 
 ## Parte 2 - Motor de Corrente Contínua
 7. [Máquina Linear](./7-Maquina_linear.md)
