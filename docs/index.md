@@ -28,14 +28,14 @@ Engenharia Mecânica - UFPE
 6. [Conversão de Energia](./6-Conversao_de_Energia.md) 27/ago
 
 ## Parte 2 - Motor de Corrente Contínua
-7. [Máquina Linear](./7-Maquina_linear.md)
-8. [Motor CC - Princípios e Construção](./8-Principios_e_construcao.md)
-9. [Motor CC - Torque e Velocidade](./9-Torque_e_velocidade.md)
-10. [Motor CC - Acionamneto e Controle](./10-Acionamento_e_controle_de_maquinas_CC.md)
-11. [Prática 2 - Motor CC](./11-Pratica_Motor_CC.md)(Atualizado até aqui)
-12. [Motor CC Brushless e Motor de Passo](./12-Brushless_e_Passo.md)
-13. Revisão
-14. Prova 1
+7. [Máquina Linear](./7-Maquina_linear.md) 01/set
+8. [Motor CC - Princípios e Construção](./8-Principios_e_construcao.md) 03/set
+9. [Motor CC - Torque e Velocidade](./9-Torque_e_velocidade.md) 08/set
+10. [Motor CC - Acionamneto e Controle](./10-Acionamento_e_controle_de_maquinas_CC.md) 10/set
+11. [Prática 2 - Motor CC](./11-Pratica_Motor_CC.md) 15/set
+12. [Motor CC Brushless e Motor de Passo](./12-Brushless_e_Passo.md) 17/set
+13. Revisão 22/set
+14. Prova 1 24/set
 
 ## Parte 3 - Máquinas Síncronas
 15. [Campo Girante](./15-Campo_girante.md)
