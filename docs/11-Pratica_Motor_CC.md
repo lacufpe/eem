@@ -2,7 +2,7 @@
 
 Vide descritivo
 Prática 15/set
-- 📁 [eem_prt2_2026.2.pdf](https://drive.google.com/file/d/1SJV9cs9R2LcQ8SGzx6oLbYNGmwhvWqB6/view?usp=sharing)
+- 📁 [eem_prt2_2026.2.pdf](https://drive.google.com/file/d/1nItuvmo9N7irT3CGf-d4dDf2UtvL9eBZ/view?usp=sharing)
 
 Relatório 22/set/2026
 
