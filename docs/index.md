@@ -33,29 +33,30 @@ Engenharia Mecânica - UFPE
 9. [Motor CC - Torque e Velocidade](./9-Torque_e_velocidade.md) 08/set
 10. [Motor CC - Acionamneto e Controle](./10-Acionamento_e_controle_de_maquinas_CC.md) 10/set
 11. [Prática 2 - Motor CC](./11-Pratica_Motor_CC.md) 15/set
-12. [Motor CC Brushless e Motor de Passo](./12-Brushless_e_Passo.md) 17/set
-13. Revisão 22/set
-14. Prova 1 24/set
+12. Análise da prática 2 - 17/set
+13. [Motor CC Brushless e Motor de Passo](./12-Brushless_e_Passo.md) 22/set
+14. Revisão 24/set
+15. Prova 1 29/set
 
 ## Parte 3 - Máquinas Síncronas
-15. [Campo Girante](./15-Campo_girante.md)
-16. [Máquinas Síncronas - Princípios e Construção](./16-Maquinas_Gerador_e_motor_sincrono.md)
-17. [Síncronas - Potência e Torque](./17-Potencia_em_Gerador_e_Motor_sincrono.md)
-18. [Síncronas - Partida](./18-Partida_de_maquinas_sincronas.md)
-19. [Prática 3 - Máquinas Síncronas](./19-Pratica_4_-Maquinas_Sincronas.md)
+15. [Campo Girante](./15-Campo_girante.md) 01/out
+16. [Máquinas Síncronas - Princípios e Construção](./16-Maquinas_Gerador_e_motor_sincrono.md) 06/out
+17. [Síncronas - Potência e Torque](./17-Potencia_em_Gerador_e_Motor_sincrono.md) 08/out
+18. [Síncronas - Partida](./18-Partida_de_maquinas_sincronas.md) 13/out
+19. [Prática 3 - Máquinas Síncronas](./19-Pratica_4_-Maquinas_Sincronas.md) 15/out
 
 ## Parte 4 - Motores de Indução
-20. [Prática 4 - Indução Magnética](./20-Pratica_4_Inducao.md)
-21. [Motor de Indução - Princípios e Construção](./21-Motor_de_Inducao_-_Principio_de_funcionamento_e_circuito_equivalente.md)
-22. [MI - Circuito Equivalente](./22-MI_Circuito_Equivalente.md)
-23. [MI - Potência, Torque e Velocidade](./23-Potencia_torque_e_velocidade.md)
-24. [Prática 5 - Motor de Indução](./24-Pratica_Motor_de_Inducao.md)
+20. [Prática 4 - Indução Magnética](./20-Pratica_4_Inducao.md) 20/out
+21. [Motor de Indução - Princípios e Construção](./21-Motor_de_Inducao_-_Principio_de_funcionamento_e_circuito_equivalente.md) 22/out
+22. [MI - Circuito Equivalente](./22-MI_Circuito_Equivalente.md) 27/out
+23. [MI - Potência, Torque e Velocidade](./23-Potencia_torque_e_velocidade.md) 29/out
+24. [Prática 5 - Motor de Indução](./24-Pratica_Motor_de_Inducao.md) 03/nov
 
 ## Parte 5 - Controle e Aplicações
-25. [Partida e Controle de Máquinas CA](./25-Partida_e_controle_de_motores_alternados.md)
-26. [Controle Vetorial](./26-Controle_vetorial.md)
-27. [Prática 6 - Inversor de Frequência](./27-Pratica_6_-_inversor_de_frequencia.md)
-28. Revisão
+25. [Partida e Controle de Máquinas CA](./25-Partida_e_controle_de_motores_alternados.md) 05/nov
+26. [Controle Vetorial](./26-Controle_vetorial.md) 10/nov
+27. [Prática 6 - Inversor de Frequência](./27-Pratica_6_-_inversor_de_frequencia.md) 12/nov
+28. Revisão 
 29. Prova 2
 
 # Material Auxiliar
