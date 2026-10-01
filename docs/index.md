@@ -39,25 +39,26 @@ Engenharia Mecânica - UFPE
 15. Prova 1 29/set
 
 ## Parte 3 - Máquinas Síncronas
-15. [Campo Girante](./15-Campo_girante.md) 01/out
-16. [Máquinas Síncronas - Princípios e Construção](./16-Maquinas_Gerador_e_motor_sincrono.md) 06/out
-17. [Síncronas - Potência e Torque](./17-Potencia_em_Gerador_e_Motor_sincrono.md) 08/out
-18. [Síncronas - Partida](./18-Partida_de_maquinas_sincronas.md) 13/out
-19. [Prática 3 - Máquinas Síncronas](./19-Pratica_4_-Maquinas_Sincronas.md) 15/out
+ Colóquio iLitPEG - 01/out
+15. [Campo Girante](./15-Campo_girante.md) - 06/out
+16. [Máquinas Síncronas - Princípios e Construção](./16-Maquinas_Gerador_e_motor_sincrono.md) - 08/out
+17. [Síncronas - Potência e Torque](./17-Potencia_em_Gerador_e_Motor_sincrono.md) - 13/out
+18. [Síncronas - Partida](./18-Partida_de_maquinas_sincronas.md) - 15/out
+19. [Prática 3 - Máquinas Síncronas](./19-Pratica_4_-Maquinas_Sincronas.md) - 20/out
 
 ## Parte 4 - Motores de Indução
-20. [Prática 4 - Indução Magnética](./20-Pratica_4_Inducao.md) 20/out
-21. [Motor de Indução - Princípios e Construção](./21-Motor_de_Inducao_-_Principio_de_funcionamento_e_circuito_equivalente.md) 22/out
-22. [MI - Circuito Equivalente](./22-MI_Circuito_Equivalente.md) 27/out
-23. [MI - Potência, Torque e Velocidade](./23-Potencia_torque_e_velocidade.md) 29/out
-24. [Prática 5 - Motor de Indução](./24-Pratica_Motor_de_Inducao.md) 03/nov
+20. [Prática 4 - Indução Magnética](./20-Pratica_4_Inducao.md) 22/out
+21. [Motor de Indução - Princípios e Construção](./21-Motor_de_Inducao_-_Principio_de_funcionamento_e_circuito_equivalente.md) 27/out
+22. [MI - Circuito Equivalente](./22-MI_Circuito_Equivalente.md) 29/out
+23. [MI - Potência, Torque e Velocidade](./23-Potencia_torque_e_velocidade.md) 03/nov
+24. [Prática 5 - Motor de Indução](./24-Pratica_Motor_de_Inducao.md) 05/nov
 
 ## Parte 5 - Controle e Aplicações
-25. [Partida e Controle de Máquinas CA](./25-Partida_e_controle_de_motores_alternados.md) 05/nov
-26. [Controle Vetorial](./26-Controle_vetorial.md) 10/nov
-27. [Prática 6 - Inversor de Frequência](./27-Pratica_6_-_inversor_de_frequencia.md) 12/nov
-28. Revisão 
-29. Prova 2
+25. [Partida e Controle de Máquinas CA](./25-Partida_e_controle_de_motores_alternados.md) 10/nov
+26. [Controle Vetorial](./26-Controle_vetorial.md) 12/nov
+27. [Prática 6 - Inversor de Frequência](./27-Pratica_6_-_inversor_de_frequencia.md) 17/nov
+28. Revisão 19/nov
+29. Prova 2 - 24/nov
 
 # Material Auxiliar
 * [Modelo de relatórios](./Modelo_de_relatorio_de_praticas.md)
