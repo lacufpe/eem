@@ -3,6 +3,8 @@ Prof. João Paulo Cerquinho Cajueiro
 
 Engenharia Mecânica - UFPE
 
+[# Notas](https://script.google.com/a/macros/ufpe.br/s/AKfycbwE6rpVjlujatobTM596OoDdE958tfM6GHnzxTdQJZSVfA8S5FAfVQzBQqCuiprC9LwFw/exec)
+
 # Metodologia
 - Aulas presenciais
 - Aulas expositivas disponibilizadas em vídeo.
