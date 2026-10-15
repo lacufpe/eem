@@ -1,10 +1,9 @@
-# Partida de máquinas síncronas
+# Potência em Geradores, relação frequência/potência, partida de máquinas síncronas
 
-Sem descrição.
+- Aula dia 15/out.
+- 📝 [Exercício dia 20/out](https://docs.google.com/forms/d/e/1FAIpQLSfFYiDIQtGYYJZ_avKpsgEA0V-ShYHoPLE5pe2E8AIIaIzKFQ/viewform?usp=header)
 
 ### Anexos & Materiais
 - ▶️ [Vídeo: Motor sincrono 2](https://www.youtube.com/watch?v=g7FtnDc65GU)
 - ▶️ [Vídeo: Partida de máquinas síncronas](https://www.youtube.com/watch?v=hSM7FuPkpkA)
-- 📁 [motorSincrono.ggb](https://drive.google.com/file/d/1UqrvpFRVjl0wvlXQiAMnj-N8xO3AD6YE/view?usp=drive_web)
-- 📁 [torque.ggb](https://drive.google.com/file/d/1MF26qFD7VtH9MOXiDzYHyyhCSbk4ESM7/view?usp=drive_web)
-- 📝 [Formulário: Partida de máquinas síncronas](https://docs.google.com/forms/d/1eHXOfzA8CIbmLYBE6mPHxTBWrkNCa62TXLNUvGLyMIA/edit)
+- 📁 [Simulador Fasorial](https://joaopaulo-cerquinhocajueiro.github.io/simMaquinas/FasoresSincronos/)
