@@ -49,18 +49,18 @@ Engenharia Mecânica - UFPE
 20. [Prática 3 - Máquinas Síncronas](./19-Pratica_4_-Maquinas_Sincronas.md) - 20/out
 
 ## Parte 4 - Motores de Indução
-21. [Prática 4 - Indução Magnética](./20-Pratica_4_Inducao.md) 22/out
-22. [Motor de Indução - Princípios e Construção](./21-Motor_de_Inducao_-_Principio_de_funcionamento_e_circuito_equivalente.md) 27/out
+21. [Motor de Indução - Princípios e Construção](./21-Motor_de_Inducao_-_Principio_de_funcionamento_e_circuito_equivalente.md) 22/out
+22. [Prática Indução Megnética](./22-Pratica_Inducao_magnetica.md) 27/out
 23. [MI - Circuito Equivalente](./22-MI_Circuito_Equivalente.md) 29/out
 24. [MI - Potência, Torque e Velocidade](./23-Potencia_torque_e_velocidade.md) 03/nov
 25. [Prática 5 - Motor de Indução](./24-Pratica_Motor_de_Inducao.md) 05/nov
 
 ## Parte 5 - Controle e Aplicações
-25. [Partida e Controle de Máquinas CA](./25-Partida_e_controle_de_motores_alternados.md) 10/nov
-26. [Controle Vetorial](./26-Controle_vetorial.md) 12/nov
-27. [Prática 6 - Inversor de Frequência](./27-Pratica_6_-_inversor_de_frequencia.md) 17/nov
-28. Revisão 19/nov
-29. Prova 2 - 24/nov
+26. [Partida e Controle de Máquinas CA](./25-Partida_e_controle_de_motores_alternados.md) 10/nov
+27. [Controle Vetorial](./26-Controle_vetorial.md) 12/nov
+28. [Prática 6 - Inversor de Frequência](./27-Pratica_6_-_inversor_de_frequencia.md) 17/nov
+29. Revisão 19/nov
+30. Prova 2 - 24/nov
 
 # Material Auxiliar
 * [Modelo de relatórios](./Modelo_de_relatorio_de_praticas.md)
