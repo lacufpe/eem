@@ -51,7 +51,7 @@ Engenharia Mecânica - UFPE
 ## Parte 4 - Motores de Indução
 21. [Motor de Indução - Princípios e Construção](./21-Motor_de_Inducao_-_Principio_de_funcionamento_e_circuito_equivalente.md) 22/out
 22. [Prática Indução Megnética](./22-Pratica_Inducao_magnetica.md) 27/out
-23. [MI - Circuito Equivalente](./22-MI_Circuito_Equivalente.md) 29/out
+23. [MI - Circuito Equivalente](./22-MI_Modelo_Equivalente.md) 29/out
 24. [MI - Potência, Torque e Velocidade](./23-Potencia_torque_e_velocidade.md) 03/nov
 25. [Prática 5 - Motor de Indução](./24-Pratica_Motor_de_Inducao.md) 05/nov
 
