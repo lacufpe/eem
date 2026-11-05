@@ -1,7 +1,7 @@
 # Potência, torque e velocidade
 
 - Aula 03/nov
-- 📝 [Exercício 05/nov](https://docs.google.com/forms/d/1Dus0_ulnGx6H0IddkX5L8JFoXfQ4ZMuWXBxUvUrR8jM/vieform)
+- 📝 [Exercício 05/nov](https://docs.google.com/forms/d/e/1FAIpQLSfBctT_2ZcL8X3pK6uk7uqVPpjb_VyEYOLNOvwVyJ-dtZLXww/viewform)
 
 
 ### Anexos & Materiais
