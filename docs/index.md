@@ -61,6 +61,8 @@ Engenharia Mecânica - UFPE
 28. [Prática 6 - Inversor de Frequência](./27-Pratica_6_-_inversor_de_frequencia.md) 17/nov
 29. Revisão 19/nov
 30. Prova 2 - 24/nov
+31. Segunda Chamada - 26/nov (aberta para quem quiser melhorar nota - todo o assunto)
+32. Final - 03/dez
 
 # Material Auxiliar
 * [Modelo de relatórios](./Modelo_de_relatorio_de_praticas.md)
